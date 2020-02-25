@@ -1,0 +1,2 @@
+# gfs
+Go general functions
