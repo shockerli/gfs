@@ -1,2 +1,5 @@
 # gfs
-Go general functions
+> Go general functions
+
+## Install
+> go get github.com/shockerli/gfs
